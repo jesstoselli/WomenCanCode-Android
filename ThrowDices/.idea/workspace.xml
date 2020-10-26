@@ -42,16 +42,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../AboutMe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ThrowDice" beforeDir="false" />
-    </list>
+    <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5_API_28]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -105,8 +102,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="C:/Android/SDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AboutMeProject" />
-    <property name="settings.editor.selected.configurable" value="emulator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.-481544260">
@@ -370,10 +367,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="753" y="241" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603575274264" />
-    <state x="300" y="148" key="SettingsEditor" timestamp="1603585690347">
+    <state x="300" y="148" key="SettingsEditor" timestamp="1603755944693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="300" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603585690347" />
+    <state x="300" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603755944693" />
     <state x="386" y="155" key="Vcs.Push.Dialog.v2" timestamp="1603586447638">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
