@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="pixel_4" />
+        <device id="pixel_4_xl" />
+        <device id="Nexus 5X" />
+        <device id="pixel_3_xl" />
+        <device id="Nexus 7" />
+        <device id="Nexus 10" />
+        <device id="pixel_2_xl" />
+        <device id="Nexus 9" />
+        <device id="pixel_3" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AboutMe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowDice" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="FatalError_Intent" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/jesstoselli/WWC-Roll-Dice.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jABxsjiX6dYULNk5yhXVnHnqO2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="Nexus_5_API_28 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="com.wcc.lancedados2" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="WCC_-_Nexus_5X_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-24T17:10:00.552Z" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="ANIM" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android.sdk.path" value="C:/Android/SDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AboutMeProject" />
+    <property name="settings.editor.selected.configurable" value="emulator" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-481544260">
+      <recent name="com.wcc.lancedados2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AndroidWCC\LanceDados2\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="LanceDados2.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="" />
+      <created>1603237266033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603237266033</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Dices images added.">
+      <created>1603415538380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603415538380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dice' images randomization functionality added.">
+      <created>1603541937784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603541937784</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Register screen layout added.">
+      <created>1603550576544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603550576544</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FatalError in intent navigation from RegisterActivity to MainActivity.">
+      <created>1603561093116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603561093116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Input text functionality in Register Activity added.">
+      <created>1603586444109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603586444110</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dices images added." />
+    <MESSAGE value="Dices' images randomization functionality added." />
+    <MESSAGE value="Dice' images randomization functionality added." />
+    <MESSAGE value="Register screen layout added." />
+    <MESSAGE value="FatalError in intent navigation from RegisterActivity to MainActivity." />
+    <MESSAGE value="Input text functionality in Register Activity added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Input text functionality in Register Activity added." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" width="816" height="726" key="#Intentions" timestamp="1603240473480">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="726" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1603240473480" />
+    <state x="552" y="178" key="#Scopes" timestamp="1603323310485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Scopes/0.0.1920.1040@0.0.1920.1040" timestamp="1603323310485" />
+    <state x="682" y="165" key="#app" timestamp="1603580528654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="165" key="#app/0.0.1920.1040@0.0.1920.1040" timestamp="1603580528654" />
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1603583187131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="274" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603583187131" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603728588979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603728588979" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603576988561">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603576988561" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603560870191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603560870191" />
+    <state x="1170" y="347" key="#xdebugger.evaluate" timestamp="1603585865241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="347" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1603585865241" />
+    <state x="540" y="274" key="AndroidCreateResourceFileDialog" timestamp="1603556690742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603556690742" />
+    <state x="807" y="333" key="AndroidCreateXmlResourceDialog" timestamp="1603548461729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="333" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603548461729" />
+    <state x="720" y="267" key="AndroidProcessChooserDialog" timestamp="1603585768373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="267" key="AndroidProcessChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603585768373" />
+    <state x="277" y="11" width="1193" height="812" key="CommitChangelistDialog2" timestamp="1603586440088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="277" y="11" width="1193" height="812" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603586440088" />
+    <state x="184" y="85" width="1536" height="861" key="DiffContextDialog" timestamp="1603575357745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="85" width="1536" height="861" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603575357745" />
+    <state x="622" y="274" width="676" height="491" key="Downloadable.Font.Dialog.Size" timestamp="1603321274121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="622" y="274" width="676" height="491" key="Downloadable.Font.Dialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1603321274121" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603754904196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603754904196" />
+    <state width="1879" height="284" key="GridCell.Tab.0.bottom" timestamp="1603739847666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603739847666" />
+    <state width="1879" height="284" key="GridCell.Tab.0.center" timestamp="1603739847666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603739847666" />
+    <state width="1879" height="284" key="GridCell.Tab.0.left" timestamp="1603739847666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603739847666" />
+    <state width="1879" height="284" key="GridCell.Tab.0.right" timestamp="1603739847666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603739847666" />
+    <state width="1879" height="298" key="GridCell.Tab.1.bottom" timestamp="1603586522107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603586522107" />
+    <state width="1879" height="298" key="GridCell.Tab.1.center" timestamp="1603586522107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="298" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603586522107" />
+    <state width="1879" height="298" key="GridCell.Tab.1.left" timestamp="1603586522107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="298" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603586522107" />
+    <state width="1879" height="298" key="GridCell.Tab.1.right" timestamp="1603586522107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1879" height="298" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603586522107" />
+    <state x="753" y="241" key="RollbackChangesDialog" timestamp="1603575274264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="241" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603575274264" />
+    <state x="300" y="148" key="SettingsEditor" timestamp="1603585690347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="300" y="148" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603585690347" />
+    <state x="386" y="155" key="Vcs.Push.Dialog.v2" timestamp="1603586447638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="386" y="155" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603586447638" />
+    <state x="614" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1603317559124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603317559124" />
+    <state x="728" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603323089576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603323089576" />
+    <state x="421" y="351" width="739" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1603324503918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="421" y="351" width="739" height="308" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603324503918" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1603560115761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603560115761" />
+    <state x="976" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603576373618">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="976" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603576373618" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="playerNameFromInput" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
