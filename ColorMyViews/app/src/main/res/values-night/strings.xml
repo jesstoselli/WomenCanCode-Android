@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ColorMyViews</string>
     <string name="box_one">Box One</string>
     <string name="box_two">Box Two</string>
     <string name="box_three">Box Three</string>

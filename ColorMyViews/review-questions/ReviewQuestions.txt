@@ -1,0 +1,4 @@
+1. c) Pelo menos uma restrição horizontal e uma vertical.
+2. a) Wrap content
+3. c) Qualquer ViewGroup
+4. b) Restrições bidirecionais
