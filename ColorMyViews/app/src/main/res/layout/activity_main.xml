@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/box_one_text"
         style="@style/whiteBox"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
@@ -17,7 +17,9 @@
         android:text="@string/box_one"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:onClick="colorBoxes"
+        />
 
     <TextView
         android:id="@+id/box_two_text"
@@ -28,7 +30,8 @@
         android:layout_marginTop="@dimen/margin_wide"
         android:text="@string/box_two"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        app:layout_constraintTop_toBottomOf="@+id/box_one_text"
+        android:onClick="colorBoxes" />
 
     <TextView
         android:id="@+id/box_three_text"
@@ -42,7 +45,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/box_two_text"
         app:layout_constraintTop_toTopOf="@+id/box_two_text"
-        app:layout_constraintVertical_chainStyle="spread_inside" />
+        app:layout_constraintVertical_chainStyle="spread_inside"
+        android:onClick="colorBoxes"/>
 
     <TextView
         android:id="@+id/box_four_text"
@@ -55,7 +59,8 @@
         app:layout_constraintBottom_toTopOf="@+id/box_five_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/box_two_text"
-        app:layout_constraintTop_toBottomOf="@+id/box_three_text" />
+        app:layout_constraintTop_toBottomOf="@+id/box_three_text"
+        android:onClick="colorBoxes"/>
 
     <TextView
         android:id="@+id/box_five_text"
@@ -68,13 +73,15 @@
         app:layout_constraintBottom_toBottomOf="@+id/box_two_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/box_two_text"
-        app:layout_constraintTop_toBottomOf="@+id/box_four_text" />
+        app:layout_constraintTop_toBottomOf="@+id/box_four_text"
+        android:onClick="colorBoxes"/>
 
     <Button
         android:id="@+id/btn_red"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/margin_wide_big"
+        android:backgroundTint="@color/red"
         android:text="@string/red"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btn_yellow"
@@ -85,6 +92,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/margin_wide_big"
+        android:backgroundTint="@color/yellow"
         android:text="@string/yellow"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/btn_green"
@@ -96,6 +104,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/margin_wide_big"
+        android:backgroundTint="@color/green"
         android:text="@string/green"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
