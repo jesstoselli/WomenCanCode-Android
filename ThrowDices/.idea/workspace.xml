@@ -42,7 +42,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="" />
+    <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/java/com/androidstudies/colormyviews/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/java/com/androidstudies/colormyviews/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

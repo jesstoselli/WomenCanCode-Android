@@ -9,7 +9,7 @@
     <TextView
         android:id="@+id/textView"
         style="@style/whiteBox"
-        android:layout_width="match_parent"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="@dimen/margin_wide"
         android:layout_marginTop="@dimen/margin_wide"
@@ -69,5 +69,37 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/box_two_text"
         app:layout_constraintTop_toBottomOf="@+id/box_four_text" />
+
+    <Button
+        android:id="@+id/btn_red"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_wide_big"
+        android:text="@string/red"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_yellow"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/btn_yellow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_wide_big"
+        android:text="@string/yellow"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/btn_green"
+        app:layout_constraintStart_toEndOf="@+id/btn_red"
+        app:layout_constraintTop_toTopOf="@+id/btn_red" />
+
+    <Button
+        android:id="@+id/btn_green"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_wide_big"
+        android:text="@string/green"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/btn_yellow"
+        app:layout_constraintTop_toTopOf="@+id/btn_yellow" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
