@@ -24,17 +24,16 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    override fun onDestroy() {
-        super.onDestroy()
+    override fun onStop() {
+        super.onStop()
 
-//         save boxes' colors on sharedPreferences
-       val sharedPreferences = this.getSharedPreferences("colors", Context.MODE_PRIVATE)
-       val sharedPreferencesEditor = sharedPreferences.edit()
+        // save boxes' colors on sharedPreferences
+        val sharedPreferences = this.getSharedPreferences("colors", Context.MODE_PRIVATE)
+        val sharedPreferencesEditor = sharedPreferences.edit()
 
-          sharedPreferencesEditor.putInt("boxOneColor", boxOneColor)
+        sharedPreferencesEditor.putInt("boxOneColor", boxOneColor)
 
-          sharedPreferencesEditor.commit()
-
+        sharedPreferencesEditor.apply()
     }
 
         private fun setColorButtonsAction() {
