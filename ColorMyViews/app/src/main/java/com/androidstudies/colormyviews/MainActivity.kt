@@ -10,6 +10,10 @@ class MainActivity : AppCompatActivity() {
 
         var currentColor = R.color.grey
         var boxOneColor = R.color.grey
+        var boxTwoColor = R.color.grey
+        var boxThreeColor = R.color.grey
+        var boxFourColor = R.color.grey
+        var boxFiveColor = R.color.grey
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -17,7 +21,17 @@ class MainActivity : AppCompatActivity() {
 
          val sharedPreferences = this.getSharedPreferences("colors", Context.MODE_PRIVATE)
          val valueBoxOne = sharedPreferences.getInt("boxOneColor", R.color.grey)
+         val valueBoxTwo = sharedPreferences.getInt("boxTwoColor", R.color.grey)
+         val valueBoxThree = sharedPreferences.getInt("boxThreeColor", R.color.grey)
+         val valueBoxFour = sharedPreferences.getInt("boxFourColor", R.color.grey)
+         val valueBoxFive = sharedPreferences.getInt("boxFiveColor", R.color.grey)
+
+
          box_one_text.setBackgroundResource(valueBoxOne)
+         box_two_text.setBackgroundResource(valueBoxTwo)
+         box_three_text.setBackgroundResource(valueBoxThree)
+         box_four_text.setBackgroundResource(valueBoxFour)
+         box_five_text.setBackgroundResource(valueBoxFive)
 
          setColorButtonsAction()
          colorBoxesThroughCode()
@@ -32,6 +46,10 @@ class MainActivity : AppCompatActivity() {
         val sharedPreferencesEditor = sharedPreferences.edit()
 
         sharedPreferencesEditor.putInt("boxOneColor", boxOneColor)
+        sharedPreferencesEditor.putInt("boxTwoColor", boxTwoColor)
+        sharedPreferencesEditor.putInt("boxThreeColor", boxThreeColor)
+        sharedPreferencesEditor.putInt("boxFourColor", boxFourColor)
+        sharedPreferencesEditor.putInt("boxFiveColor", boxFiveColor)
 
         sharedPreferencesEditor.apply()
     }

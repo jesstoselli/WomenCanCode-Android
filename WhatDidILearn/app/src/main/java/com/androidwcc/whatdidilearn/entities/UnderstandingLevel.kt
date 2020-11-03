@@ -9,5 +9,3 @@ enum class UnderstandingLevel(
     MEDIUM(R.color.purple_500),
     LOW(R.color.purple_700)
 }
-
-

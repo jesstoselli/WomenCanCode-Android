@@ -16,15 +16,15 @@ class LearnedItemsAdapter: RecyclerView.Adapter<LearnedItemsAdapter.LearnedItemV
         }
 
     inner class LearnedItemViewHolder(itemView: View): RecyclerView.ViewHolder(itemView) {
-        val titleItem: TextView = itemView.findViewById(
+        private val titleItem: TextView = itemView.findViewById(
             R.id.textView_title)
-        val descriptionItem: TextView = itemView.findViewById(R.id.textView_description)
-        val levelItem: View = itemView.findViewById(R.id.linearLayout_itemLevel)
+        private val descriptionItem: TextView = itemView.findViewById(R.id.textView_description)
+        private val levelItem: View = itemView.findViewById(R.id.linearLayout_itemLevel)
 
         fun bind(title: String, description: String, color: Int) {
             titleItem.text = title
             descriptionItem.text = description
-            levelItem.setBackgroundColor(color)
+            levelItem.setBackgroundResource(color)
         }
     }
 

@@ -29,6 +29,14 @@ class DatabaseItems {
             UnderstandingLevel.HIGH
         )
 
-        return listOf<ItemLearned>(itemOne, itemTwo, itemThree, itemFour)
+        val itemFive = ItemLearned(
+            "View Binding",
+            "View Binding é um recurso que facilita a programação de códigos que interagem com views.\n",
+            UnderstandingLevel.LOW
+
+
+        )
+
+        return listOf<ItemLearned>(itemOne, itemTwo, itemThree, itemFour, itemFive)
     }
 }
