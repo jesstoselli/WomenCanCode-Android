@@ -1,5 +1,6 @@
 package com.androidwcc.whatdidilearn.view
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.RecyclerView
@@ -22,6 +23,13 @@ class MainActivity : AppCompatActivity() {
 
         val learnedItemsList = DatabaseItems.getAll()
         adapter.data = learnedItemsList
+
+        val floatingActionButton = binding.fabAddItem
+
+        floatingActionButton.setOnClickListener {
+            val intent = Intent(this, AddNewItemActivity::class.java)
+            startActivity(intent)
+        }
 
     }
 }

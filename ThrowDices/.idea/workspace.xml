@@ -43,22 +43,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/java/com/androidstudies/colormyviews/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/java/com/androidstudies/colormyviews/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values-night/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/dimens.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ColorMyViews/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/AddNewItemActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/layout/activity_add_new_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/values-night/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/values-night/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5_API_28]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -112,7 +108,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="C:/Android/SDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WhatDidILearn" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -337,9 +333,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="622" y="274" width="676" height="491" key="Downloadable.Font.Dialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1603321274121" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603755989277">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604527469822">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604527469822" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603755989277" />
     <state width="1879" height="129" key="GridCell.Tab.0.bottom" timestamp="1603756345914">
       <screen x="0" y="0" width="1920" height="1040" />
