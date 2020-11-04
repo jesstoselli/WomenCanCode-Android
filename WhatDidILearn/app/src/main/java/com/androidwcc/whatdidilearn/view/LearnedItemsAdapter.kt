@@ -6,10 +6,10 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.androidwcc.whatdidilearn.R
-import com.androidwcc.whatdidilearn.entities.ItemLearned
+import com.androidwcc.whatdidilearn.entities.LearnedItem
 
 class LearnedItemsAdapter: RecyclerView.Adapter<LearnedItemsAdapter.LearnedItemViewHolder>() {
-    var data = listOf<ItemLearned>()
+    var data = listOf<LearnedItem>()
         set(value) {
             field = value
             notifyDataSetChanged()
@@ -41,8 +41,8 @@ class LearnedItemsAdapter: RecyclerView.Adapter<LearnedItemsAdapter.LearnedItemV
         holder: LearnedItemViewHolder,
         position: Int
     ) {
-        val itemLearnedToShow: ItemLearned = data.get(position)
-        holder.bind(itemLearnedToShow.title, itemLearnedToShow.description, itemLearnedToShow.understandingLevel.color)
+        val learnedItemToShow: LearnedItem = data.get(position)
+        holder.bind(learnedItemToShow.title, learnedItemToShow.description, learnedItemToShow.understandingLevel.color)
     }
 
     override fun getItemCount(): Int {
