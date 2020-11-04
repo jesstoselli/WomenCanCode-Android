@@ -6,7 +6,7 @@ import androidx.room.Query
 import com.androidwcc.whatdidilearn.entities.LearnedItem
 
 @Dao
-interface LearnedItemDAO {
+interface LearnedItemDao {
 
     @Query("SELECT * FROM learned_item ORDER BY item_title ASC")
     fun getAll(): List<LearnedItem>
