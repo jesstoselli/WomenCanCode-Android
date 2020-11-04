@@ -43,11 +43,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/AddNewItemActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/layout/activity_add_new_item.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/values-night/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/values-night/strings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/DatabaseItems.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/DatabaseItems.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
