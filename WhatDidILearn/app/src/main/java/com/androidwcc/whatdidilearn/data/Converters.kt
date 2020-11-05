@@ -14,8 +14,8 @@ class Converters {
     @TypeConverter
     fun intToLevel(color: Int): UnderstandingLevel {
         return when(color) {
-            R.color.purple_700 -> UnderstandingLevel.LOW
-            R.color.purple_500 -> UnderstandingLevel.MEDIUM
+            R.color.pistachio -> UnderstandingLevel.LOW
+            R.color.zomp -> UnderstandingLevel.MEDIUM
             else -> UnderstandingLevel.HIGH
         }
 

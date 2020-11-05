@@ -2,4 +2,16 @@
 <resources>
     <color name="purple_300">#984ef3</color>
     <color name="purple_900">#FF1F0161</color>
+
+    <!--    Custom colors -->
+    <color name="red_salsa">#f9c74f</color>
+    <color name="orange_red">#f3722c</color>
+    <color name="yellow_red">#F8961E</color>
+    <color name="mango_tango">#f9844a</color>
+    <color name="maize_crayola">#F9C74F</color>
+    <color name="pistachio">#90be6d</color>
+    <color name="zomp">#43AA8B</color>
+    <color name="cadet_blue">#4d908e</color>
+    <color name="queen_blue">#577590</color>
+    <color name="cg_blue">#277da1</color>
 </resources>

@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="fab_content_desc">+</string>
+    <string name="item_title">Item Title:</string>
+    <string name="item_description">Item Description:</string>
+    <string name="hint_description">description</string>
+    <string name="btn_save">Save</string>
 </resources>

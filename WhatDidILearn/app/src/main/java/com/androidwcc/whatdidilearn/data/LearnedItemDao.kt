@@ -1,5 +1,6 @@
 package com.androidwcc.whatdidilearn.data
 
+import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
@@ -9,8 +10,8 @@ import com.androidwcc.whatdidilearn.entities.LearnedItem
 interface LearnedItemDao {
 
     @Query("SELECT * FROM learned_item ORDER BY item_title ASC")
-    fun getAll(): List<LearnedItem>
+    fun getAll(): LiveData<List<LearnedItem>>
 
     @Insert
-    fun insert(item: LearnedItem)
+    suspend fun insert(item: LearnedItem)
 }

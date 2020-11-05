@@ -24,7 +24,7 @@ abstract class DatabaseItems: RoomDatabase() {
             null
 
 
-        fun getDatabase(context: Context): DatabaseItems {
+        fun getDatabase(context: Context, scope: CoroutineScope): DatabaseItems {
             // se INSTANCE não é nulo, então retorna ela mesma,
             // se INSTANCE é nula, então cria uma instancia do banco
             return INSTANCE
@@ -34,7 +34,7 @@ abstract class DatabaseItems: RoomDatabase() {
                                 context.applicationContext,
                                 DatabaseItems::class.java,
                                 "learned_item_database"
-                            ).build()
+                            ).addCallback(DatabaseCallBack(scope)).build()
                         INSTANCE = instance
                         instance
                     }

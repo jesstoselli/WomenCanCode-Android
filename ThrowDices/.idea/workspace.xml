@@ -43,14 +43,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1f12669-a14f-433d-856c-e87f2f697be2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/Converters.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/Converters.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/DatabaseItems.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/DatabaseItems.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/LearnedItemDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/data/LearnedItemDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/entities/UnderstandingLevel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/entities/UnderstandingLevel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/java/com/androidwcc/whatdidilearn/view/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/layout/activity_add_new_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/layout/activity_add_new_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/values-night/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WhatDidILearn/app/src/main/res/values-night/colors.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5_API_28]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -104,7 +110,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="android.sdk.path" value="C:/Android/SDK" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WhatDidILearn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
