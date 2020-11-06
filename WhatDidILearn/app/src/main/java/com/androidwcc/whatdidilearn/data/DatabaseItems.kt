@@ -40,7 +40,7 @@ abstract class DatabaseItems: RoomDatabase() {
                     }
         }
 
-        fun getAll(): List<LearnedItem> {
+        fun getAll(): MutableList<LearnedItem> {
             val itemOne = LearnedItem(
                 "Kotlin - Null safety",
                 "O sistema de tipos de Kotlin visa eliminar o perigo de referências nulas do código.",
@@ -71,7 +71,7 @@ abstract class DatabaseItems: RoomDatabase() {
                 UnderstandingLevel.LOW
             )
 
-            return listOf<LearnedItem>(
+            return mutableListOf<LearnedItem>(
                 itemOne,
                 itemTwo,
                 itemThree,

@@ -8,11 +8,10 @@
 
     <TextView
         android:id="@+id/textView_title"
-        android:layout_width="0dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="@dimen/text_padding"
         app:layout_constraintBottom_toTopOf="@+id/textView_description"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/linearLayout_itemLevel"
         tools:text="Kotlin - Null safety" />
 
@@ -35,4 +34,14 @@
         app:layout_constraintBottom_toBottomOf="@+id/textView_description"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/textView_title" />
+
+    <Button
+        android:id="@+id/button_delete"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:text="@string/btn_x"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/textView_title"
+        app:layout_constraintTop_toTopOf="@+id/linearLayout_itemLevel" />
 </androidx.constraintlayout.widget.ConstraintLayout>
